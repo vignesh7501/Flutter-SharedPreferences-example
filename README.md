@@ -6,5 +6,3 @@ Using SharedPreferences to store the username and password in flutter.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-
-https://flutter.io/
