@@ -105,8 +105,8 @@ class _LoginPageState extends State<LoginPage> {
           username.text = sharedPreferences.getString("username");
           password.text = sharedPreferences.getString("password");
         } else {
-          username.text = "";
-          password.text = "";
+          username.clear();
+          password.clear();
           sharedPreferences.clear();
         }
       } else {
