@@ -1,9 +1,10 @@
 # flutter_shared_preferences
 
-A new Flutter application.
+Using SharedPreferences to store the username and password in flutter.
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# Flutter-SharedPreferences-example
+
+https://flutter.io/
